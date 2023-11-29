@@ -1,4 +1,4 @@
-# VIP-s-ML_Scratch
+# VIP-s-MachineLearning-Algorithms_Scratch-Python3
 
 # Machine Learning Algorithms from Scratch
 
