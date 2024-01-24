@@ -6,6 +6,5 @@ This repository contains implementations of various supervised machine learning 
 
 ## Project Structure
 
-- `/algorithms`: Custom implementations of machine learning algorithms.
-- `/scikit`: Implementations of the same algorithms using scikit-learn.
-- `/data`: Sample datasets used for testing and training.
+- `/Algorithms-Scratch`: Custom implementations of machine learning algorithms.
+- `/datasets`: Sample datasets used for testing and training.
